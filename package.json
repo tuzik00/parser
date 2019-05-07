@@ -12,6 +12,12 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "browsers": "./packages/browsers"
+    "browsers": "./packages/browsers",
+    "cheerio": "^1.0.0-rc.3",
+    "request": "./packages/request",
+    "tress": "^1.1.4",
+    "url": "^0.11.0",
+    "mongodb": "^3.2.3",
+    "mongoose": "^5.5.5"
   }
 }
